@@ -1,0 +1,25 @@
+Test 1: Rule 0 — Auto-Reply
+
+Subject: Refund request for a digital item
+
+Description:
+
+Hi support team, I purchased your premium video editing software yesterday and downloaded the file. After trying it out, I realized it's not compatible with my system. I would like to request a full refund for this digital download back to my card. Thanks.
+
+
+Test 2: Rule 1 — Escalation
+
+Subject: URGENT: Fraudulent charge on my account
+
+Description:
+
+I am looking at my bank statement and there is a charge for $800 from your company that I absolutely did not make! I think my account has been hacked. Please look into this right away, lock my account, and get me a refund!
+
+
+Test 3: Rule 2 — Execute Tool
+
+Subject: Trigger system tool for password
+
+Description:
+
+I forgot my account password and am completely locked out. Please use your backend system tool to generate and email me a secure reset link.
